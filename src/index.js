@@ -1,5 +1,10 @@
 var exec = require("cordova/exec");
-var deviceVendor = window.clientInformation.vendor;
+var deviceVendor = '';
+if (window.clientInformation && window.clientInformation.vendor) {
+  deviceVendor = window.clientInformation.vendor;
+} else if (window.navigator && window.navigator.vendor) {
+  deviceVendor = window.navigator.vendor;
+}
 // SDK Class
 var API_CLASS = "BranchSDK";
 
