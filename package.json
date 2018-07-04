@@ -2,14 +2,14 @@
   "name": "branch-cordova-sdk",
   "description": "Branch Metrics Cordova SDK",
   "main": "src/index.js",
-  "version": "3.0.0",
-  "homepage": "https://github.com/BranchMetrics/cordova-ionic-phonegap-branch-deep-linking",
+  "version": "3.0.1",
+  "homepage": "https://github.com/totopsy/cordova-ionic-phonegap-branch-deep-linking/edit/master/package.json",
   "repository": {
     "type": "git",
-    "url": "https://github.com/BranchMetrics/cordova-ionic-phonegap-branch-deep-linking.git"
+    "url": "https://github.com/totopsy/cordova-ionic-phonegap-branch-deep-linking/edit/master/package.json"
   },
   "bugs": {
-    "url": "https://github.com/BranchMetrics/cordova-ionic-phonegap-branch-deep-linking/issues"
+    "url": "https://github.com/totopsy/cordova-ionic-phonegap-branch-deep-linking/edit/master/package.json"
   },
   "platforms": [
     "android",
